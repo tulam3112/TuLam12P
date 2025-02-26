@@ -5,7 +5,7 @@ function login()
   if (a == "lam" && b =="17")
   {
     window.open("home.html")
-    document.gêtlementById(compiler).style.đisplay="block"
+    document.getElementById(compiler).style.đisplay="block"
   }
   else document.write("Không đúng")
 }
